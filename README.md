@@ -1,4 +1,4 @@
-# Projeto-Pandas-Alura
+# Projeto Pandas Alura
 | 🪧 Vitrine.Dev |     |
 | -------------  | --- |
 | ✨ Nome        | Projeto-Pandas-Alura
