@@ -38,5 +38,14 @@ Após isso, organizamos a visualização dos nossos Dados, criando e organizando
 
 ![Captura de Tela (193)](https://user-images.githubusercontent.com/102321564/194169611-76ab3e5d-b6d2-4c29-9810-94efd5712982.png)
 
+<h1> Relatório de Análise III </h1>
+<h2> Separando os Imóveis Residenciais & Exportando a Base de Dados </h2>
+No nosso terceiro relatório, optamos primeiro por fazer uma seleção somente dos imóveis residencais, pra gerar uma nova Base de dados somente com esse grupo, portanto criamos a variável seleção que recebe nossos dados com a função issin, após isso podemos atribuir uma nova base de dados, somente com os imóveis do tipo residencial.
+
+![Captura de Tela (194)](https://user-images.githubusercontent.com/102321564/194170616-e6119388-c8e9-46d3-bed2-af60fc1dfb70.png)
+
+Com isso feito, podemos exportar essa nova base de dados para um novo arquivo csv.
+
+![Captura de Tela (195)](https://user-images.githubusercontent.com/102321564/194170881-50c8ac44-8b7c-48d8-ac14-7dc4af3036ea.png)
 
 
