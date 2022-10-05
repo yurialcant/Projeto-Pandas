@@ -27,3 +27,16 @@ especificando o caminho do arquivo e o separador necessário para realizar a lei
 Em seguida aprendemos a visualizar as informaçãos gerais, como o tipo de nossos dados e a quantidade de registro.
 
 ![Captura de Tela (191)](https://user-images.githubusercontent.com/102321564/194168132-cf9504b2-a021-43fc-837f-ac8e7daeb2c6.png)
+
+<h1> Relatório de Análise II </h1>
+<h2> Tipos de Imóveis & Organizando a visualização </h2>
+Em nosso segundo relatório, primeiro aprendemos a revomer entradas duplicadas da nossa base de dados através do comando "drop_duplicates" colocando o parâmetro inplace = True, para que as mudanças realizadas sejam aplicadas no nosso DataFrame,
+
+![Captura de Tela (192)](https://user-images.githubusercontent.com/102321564/194169092-e5e0ee1e-1022-4003-aa9a-6c85d6843658.png)
+
+Após isso, organizamos a visualização dos nossos Dados, criando e organizando a tabela de Ids, dos nossos tipos de imóveis.
+
+![Captura de Tela (193)](https://user-images.githubusercontent.com/102321564/194169611-76ab3e5d-b6d2-4c29-9810-94efd5712982.png)
+
+
+
