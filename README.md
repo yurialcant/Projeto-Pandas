@@ -48,4 +48,13 @@ Com isso feito, podemos exportar essa nova base de dados para um novo arquivo cs
 
 ![Captura de Tela (195)](https://user-images.githubusercontent.com/102321564/194170881-50c8ac44-8b7c-48d8-ac14-7dc4af3036ea.png)
 
+<h1> Relatório de Análise IV </h1>
+<h2> Criando Novas Variáveis & Excluindo Variáveis </h2>
+No quarto relatório aprendemos a forma básica de se adicionar variáveis na nossa base de dados, conseguindo criar variáveis com operações matemáticas, envolvendo outras variáveis, já presentes na base de dados.
+
+![Captura de Tela (196)](https://user-images.githubusercontent.com/102321564/194171719-f4f71963-1b81-4aa3-a8f3-d1a4717ec486.png)
+
+Logo em seguida, aprendemos as funções básicas para excluir variáveis da base de dados.
+
+![Captura de Tela (197)](https://user-images.githubusercontent.com/102321564/194171994-158de275-99c3-43f8-8789-7fa917b139a7.png)
 
