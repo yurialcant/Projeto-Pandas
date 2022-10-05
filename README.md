@@ -9,7 +9,8 @@
 <h1 align ="center"> Introdução á biblioteca Pandas do Python </h1>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>#vitrinedev
+</p>
+#vitrinedev
 
 Este projeto foi criado durante o curso de introdução á biblioteca Pandas do Python, pertencente a formação Data Science, neste curso aprendemos a usar o básico da biblioteca,
 como funções, ler e escrever um arquivo csv e realizar o tratamento de dados, entre outras funções, aprendemos também a manipular a biblioteca matplotlib para gerar gráficos
