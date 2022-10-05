@@ -66,4 +66,17 @@ Nesta estapa, aprendemos a tratar nossa base de dados, como possuímos alguns da
 
 ![Captura de Tela (199)](https://user-images.githubusercontent.com/102321564/194172898-afda8afb-4c3c-49d7-9394-57d0bee058cc.png)
 
+<h1> Relatório de Análise VI </h1>
+<h2> Criando Agrupamentos & Estatísticas Descritivas </h2>
+Neste relatório, aprendemos a criar agrupamentos, selecionando alguns imóveis de determinado bairros e criando um novo DataFrame, destes imóveis com a média do valor e condominio por bairro.
+
+![Captura de Tela (200)](https://user-images.githubusercontent.com/102321564/194173613-639733ba-a131-4d8a-822c-ff4deeb069b5.png)
+
+Após isso, começamos a utilizar a biblioteca matplotlib do Python, para passar esta base de dados para um gráfico de barro, utilizando a média para construir as informações de nossos gráficos.
+
+![Captura de Tela (201)](https://user-images.githubusercontent.com/102321564/194174221-95565804-0f38-4b7a-90ef-dd32e163d4ed.png)
+
+
+
+
 
