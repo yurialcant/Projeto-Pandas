@@ -76,7 +76,17 @@ Após isso, começamos a utilizar a biblioteca matplotlib do Python, para passar
 
 ![Captura de Tela (201)](https://user-images.githubusercontent.com/102321564/194174221-95565804-0f38-4b7a-90ef-dd32e163d4ed.png)
 
+<h1> Relatório de Análise VII </h1>
+<h2> Identificando e Removendo Outliers </h2>
+Neste relatório continuamos a utilizar a biblioteca pandas em conjunto com a matplotlib, para gerarmos um gráfico do tipo Box-Plot, para isso precisamos remover os outliers (dados que se diferenciam drasticamente de todos os outros) de nossa base de dados, para isso criamos um limite com base no valor do imóvel e com isso prosseguimos para a fórmula do nosso gráfico.
 
+![Captura de Tela (202)](https://user-images.githubusercontent.com/102321564/194175069-4d76ed7b-3695-49b5-afeb-289438634b4d.png)
+
+Após isso, agrupamos nossos tipos de imóveis, refizemos a fórmula e criamos um Box-Plot para cada tipo de imóvel na nossa basse de dados.
+
+![Captura de Tela (203)](https://user-images.githubusercontent.com/102321564/194175465-475c1b4e-fb62-4b72-843a-715214ba3d30.png)
+
+Com isso exportamos nossa nova base de dados, desta vez sem os Outliers e concluímos o projeto.
 
 
 
