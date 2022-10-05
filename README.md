@@ -58,3 +58,12 @@ Logo em seguida, aprendemos as funções básicas para excluir variáveis da bas
 
 ![Captura de Tela (197)](https://user-images.githubusercontent.com/102321564/194171994-158de275-99c3-43f8-8789-7fa917b139a7.png)
 
+<h1> Relatório de Análise V </h1>
+<h2> Tratamento de Dados Faltantes</h2>
+Nesta estapa, aprendemos a tratar nossa base de dados, como possuímos alguns dados constando como "NaN", aprendemos a substituir esses dados faltantes para montarmos um DataFrame completo sem esses elementos faltantes.
+
+![Captura de Tela (198)](https://user-images.githubusercontent.com/102321564/194172872-9aeea2cc-2b7b-484c-963a-e9ed725b9faa.png)
+
+![Captura de Tela (199)](https://user-images.githubusercontent.com/102321564/194172898-afda8afb-4c3c-49d7-9394-57d0bee058cc.png)
+
+
