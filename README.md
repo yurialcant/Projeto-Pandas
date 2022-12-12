@@ -10,7 +10,8 @@
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20COMPLETO&color=GREEN&style=for-the-badge"/>
 </p>
-#vitrinedev
+
+![](https://user-images.githubusercontent.com/102321564/194167852-79896f47-325d-4c14-a754-07e75568bdd9.png#vitrinedev)
 
 Este projeto foi criado durante o curso de introdução á biblioteca Pandas do Python, pertencente a formação Data Science, neste curso aprendemos a usar o básico da biblioteca,
 como funções, ler e escrever um arquivo csv e realizar o tratamento de dados, entre outras funções, aprendemos também a manipular a biblioteca matplotlib para gerar gráficos
